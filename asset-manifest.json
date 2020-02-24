@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/lab-class-27-React-Testing-and-Deployment/static/css/main.9a72d99a.chunk.css",
-    "main.js": "/lab-class-27-React-Testing-and-Deployment/static/js/main.bc576e09.chunk.js",
-    "main.js.map": "/lab-class-27-React-Testing-and-Deployment/static/js/main.bc576e09.chunk.js.map",
-    "runtime-main.js": "/lab-class-27-React-Testing-and-Deployment/static/js/runtime-main.d508e84e.js",
-    "runtime-main.js.map": "/lab-class-27-React-Testing-and-Deployment/static/js/runtime-main.d508e84e.js.map",
-    "static/js/2.ccfe5bcb.chunk.js": "/lab-class-27-React-Testing-and-Deployment/static/js/2.ccfe5bcb.chunk.js",
-    "static/js/2.ccfe5bcb.chunk.js.map": "/lab-class-27-React-Testing-and-Deployment/static/js/2.ccfe5bcb.chunk.js.map",
-    "index.html": "/lab-class-27-React-Testing-and-Deployment/index.html",
-    "precache-manifest.57fe8b71f6dd5db3ce79d9634a2f5a25.js": "/lab-class-27-React-Testing-and-Deployment/precache-manifest.57fe8b71f6dd5db3ce79d9634a2f5a25.js",
-    "service-worker.js": "/lab-class-27-React-Testing-and-Deployment/service-worker.js",
-    "static/css/main.9a72d99a.chunk.css.map": "/lab-class-27-React-Testing-and-Deployment/static/css/main.9a72d99a.chunk.css.map",
-    "static/js/2.ccfe5bcb.chunk.js.LICENSE.txt": "/lab-class-27-React-Testing-and-Deployment/static/js/2.ccfe5bcb.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.9a72d99a.chunk.css",
+    "main.js": "/static/js/main.bc576e09.chunk.js",
+    "main.js.map": "/static/js/main.bc576e09.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.bcbafde5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.bcbafde5.js.map",
+    "static/js/2.ccfe5bcb.chunk.js": "/static/js/2.ccfe5bcb.chunk.js",
+    "static/js/2.ccfe5bcb.chunk.js.map": "/static/js/2.ccfe5bcb.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d3a903dee26604c865b2ad1ecc6e439e.js": "/precache-manifest.d3a903dee26604c865b2ad1ecc6e439e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.9a72d99a.chunk.css.map": "/static/css/main.9a72d99a.chunk.css.map",
+    "static/js/2.ccfe5bcb.chunk.js.LICENSE.txt": "/static/js/2.ccfe5bcb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d508e84e.js",
+    "static/js/runtime-main.bcbafde5.js",
     "static/js/2.ccfe5bcb.chunk.js",
     "static/css/main.9a72d99a.chunk.css",
     "static/js/main.bc576e09.chunk.js"
