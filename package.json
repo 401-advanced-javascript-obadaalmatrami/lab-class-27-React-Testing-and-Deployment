@@ -2,7 +2,7 @@
   "name": "lab-class-27-React-Testing-and-Deployment",
   "version": "1.0.0",
   "description": "",
-  "main": "src/index.js",
+  "main": "index.js",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/401-advanced-javascript-obadaalmatrami/lab-class-27-React-Testing-and-Deployment/issues"
   },
-  "homepage": "https://obadaalmatrami92.github.io/401-advanced-javascript-obadaalmatrami/lab-class-27-React-Testing-and-Deployment/",
+  "homepage": "https://obadaalmatrami.github.io/lab-class-27-React-Testing-and-Deployment/",
   "dependencies": {
     "enzyme": "^3.11.0",
     "enzyme-adapter-react-16": "^1.15.2",
