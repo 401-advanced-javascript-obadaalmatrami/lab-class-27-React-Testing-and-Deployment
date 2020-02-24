@@ -1,0 +1,50 @@
+
+
+$backgroundColor: MAROON;
+
+
+body {
+  background: $backgroundColor;
+  color: rgb(219, 214, 214);
+  padding:  25px;
+  font-size: 25px;
+  text-align: center ;
+}
+
+
+header {
+  text-align: center;
+}
+
+#buttons {
+  margin-top: 200px;
+}
+
+button {
+  background: whitesmoke;
+  font-size: 40px;
+  border: 5px solid rgb(2, 2, 3);
+  border-radius: 100px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 100px;
+  transition-duration: 0.2s;
+  padding: 40px 60px;
+
+}
+
+button:hover {
+  background: rgb(0, 104, 17);
+  color: rgb(4, 4, 17);
+}
+
+button:active {
+  background: rgb(197, 4, 4);
+  color: rgb(4, 4, 19);
+}
+
+footer{
+
+margin-top: 220px;
+
+}
